@@ -1,0 +1,256 @@
+2025-08-24T12:19:09: 
+2025-08-24T12:19:09: > medusa@0.0.1 start
+2025-08-24T12:19:09: > medusa start
+2025-08-24T12:19:09: 
+2025-08-24T12:19:11: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:19:11"}
+2025-08-24T12:19:11: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:19:12: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:19:12"}
+2025-08-24T12:19:12: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:19:12"}
+2025-08-24T12:19:16: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:19:16"}
+2025-08-24T12:19:16: Warning: connect.session() MemoryStore is not
+2025-08-24T12:19:16: designed for a production environment, as it will leak
+2025-08-24T12:19:16: memory, and will not scale past a single process.
+2025-08-24T12:19:16: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:19:16"}
+2025-08-24T12:19:16: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:19:16"}
+2025-08-24T12:19:16: 
+2025-08-24T12:19:16: > medusa@0.0.1 start
+2025-08-24T12:19:16: > medusa start
+2025-08-24T12:19:16: 
+2025-08-24T12:19:18: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:19:18"}
+2025-08-24T12:19:18: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:19:19: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:19:19"}
+2025-08-24T12:19:19: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:19:19"}
+2025-08-24T12:19:22: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:19:22"}
+2025-08-24T12:19:22: Warning: connect.session() MemoryStore is not
+2025-08-24T12:19:22: designed for a production environment, as it will leak
+2025-08-24T12:19:22: memory, and will not scale past a single process.
+2025-08-24T12:19:22: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:19:22"}
+2025-08-24T12:19:22: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:19:22"}
+2025-08-24T12:19:23: 
+2025-08-24T12:19:23: > medusa@0.0.1 start
+2025-08-24T12:19:23: > medusa start
+2025-08-24T12:19:23: 
+2025-08-24T12:19:25: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:19:25"}
+2025-08-24T12:19:25: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:19:26: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:19:26"}
+2025-08-24T12:19:26: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:19:26"}
+2025-08-24T12:19:29: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:19:29"}
+2025-08-24T12:19:29: Warning: connect.session() MemoryStore is not
+2025-08-24T12:19:29: designed for a production environment, as it will leak
+2025-08-24T12:19:29: memory, and will not scale past a single process.
+2025-08-24T12:19:29: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:19:29"}
+2025-08-24T12:19:29: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:19:29"}
+2025-08-24T12:19:30: 
+2025-08-24T12:19:30: > medusa@0.0.1 start
+2025-08-24T12:19:30: > medusa start
+2025-08-24T12:19:30: 
+2025-08-24T12:19:32: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:19:32"}
+2025-08-24T12:19:32: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:19:33: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:19:33"}
+2025-08-24T12:19:33: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:19:33"}
+2025-08-24T12:19:36: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:19:36"}
+2025-08-24T12:19:36: Warning: connect.session() MemoryStore is not
+2025-08-24T12:19:36: designed for a production environment, as it will leak
+2025-08-24T12:19:36: memory, and will not scale past a single process.
+2025-08-24T12:19:36: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:19:36"}
+2025-08-24T12:19:36: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:19:36"}
+2025-08-24T12:19:37: 
+2025-08-24T12:19:37: > medusa@0.0.1 start
+2025-08-24T12:19:37: > medusa start
+2025-08-24T12:19:37: 
+2025-08-24T12:19:39: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:19:39"}
+2025-08-24T12:19:39: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:19:40: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:19:40"}
+2025-08-24T12:19:40: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:19:40"}
+2025-08-24T12:19:43: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:19:43"}
+2025-08-24T12:19:43: Warning: connect.session() MemoryStore is not
+2025-08-24T12:19:43: designed for a production environment, as it will leak
+2025-08-24T12:19:43: memory, and will not scale past a single process.
+2025-08-24T12:19:43: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:19:43"}
+2025-08-24T12:19:43: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:19:43"}
+2025-08-24T12:19:44: 
+2025-08-24T12:19:44: > medusa@0.0.1 start
+2025-08-24T12:19:44: > medusa start
+2025-08-24T12:19:44: 
+2025-08-24T12:19:46: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:19:46"}
+2025-08-24T12:19:46: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:19:47: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:19:47"}
+2025-08-24T12:19:47: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:19:47"}
+2025-08-24T12:19:50: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:19:50"}
+2025-08-24T12:19:50: Warning: connect.session() MemoryStore is not
+2025-08-24T12:19:50: designed for a production environment, as it will leak
+2025-08-24T12:19:50: memory, and will not scale past a single process.
+2025-08-24T12:19:50: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:19:50"}
+2025-08-24T12:19:50: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:19:50"}
+2025-08-24T12:19:50: 
+2025-08-24T12:19:50: > medusa@0.0.1 start
+2025-08-24T12:19:50: > medusa start
+2025-08-24T12:19:50: 
+2025-08-24T12:19:53: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:19:53"}
+2025-08-24T12:19:53: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:19:53: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:19:53"}
+2025-08-24T12:19:53: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:19:53"}
+2025-08-24T12:19:57: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:19:57"}
+2025-08-24T12:19:57: Warning: connect.session() MemoryStore is not
+2025-08-24T12:19:57: designed for a production environment, as it will leak
+2025-08-24T12:19:57: memory, and will not scale past a single process.
+2025-08-24T12:19:57: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:19:57"}
+2025-08-24T12:19:57: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:19:57"}
+2025-08-24T12:19:57: 
+2025-08-24T12:19:57: > medusa@0.0.1 start
+2025-08-24T12:19:57: > medusa start
+2025-08-24T12:19:57: 
+2025-08-24T12:19:59: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:19:59"}
+2025-08-24T12:19:59: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:00: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:00"}
+2025-08-24T12:20:00: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:00"}
+2025-08-24T12:20:03: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:03"}
+2025-08-24T12:20:03: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:03: designed for a production environment, as it will leak
+2025-08-24T12:20:03: memory, and will not scale past a single process.
+2025-08-24T12:20:04: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:04"}
+2025-08-24T12:20:04: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:04"}
+2025-08-24T12:20:04: 
+2025-08-24T12:20:04: > medusa@0.0.1 start
+2025-08-24T12:20:04: > medusa start
+2025-08-24T12:20:04: 
+2025-08-24T12:20:06: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:20:06"}
+2025-08-24T12:20:06: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:07: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:07"}
+2025-08-24T12:20:07: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:07"}
+2025-08-24T12:20:11: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:11"}
+2025-08-24T12:20:11: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:11: designed for a production environment, as it will leak
+2025-08-24T12:20:11: memory, and will not scale past a single process.
+2025-08-24T12:20:11: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:11"}
+2025-08-24T12:20:11: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:11"}
+2025-08-24T12:20:11: 
+2025-08-24T12:20:11: > medusa@0.0.1 start
+2025-08-24T12:20:11: > medusa start
+2025-08-24T12:20:11: 
+2025-08-24T12:20:13: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:20:13"}
+2025-08-24T12:20:13: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:14: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:14"}
+2025-08-24T12:20:14: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:14"}
+2025-08-24T12:20:17: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:17"}
+2025-08-24T12:20:17: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:17: designed for a production environment, as it will leak
+2025-08-24T12:20:17: memory, and will not scale past a single process.
+2025-08-24T12:20:17: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:17"}
+2025-08-24T12:20:17: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:17"}
+2025-08-24T12:20:18: 
+2025-08-24T12:20:18: > medusa@0.0.1 start
+2025-08-24T12:20:18: > medusa start
+2025-08-24T12:20:18: 
+2025-08-24T12:20:20: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:20:20"}
+2025-08-24T12:20:20: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:21: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:21"}
+2025-08-24T12:20:21: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:21"}
+2025-08-24T12:20:24: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:24"}
+2025-08-24T12:20:24: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:24: designed for a production environment, as it will leak
+2025-08-24T12:20:24: memory, and will not scale past a single process.
+2025-08-24T12:20:24: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:24"}
+2025-08-24T12:20:24: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:24"}
+2025-08-24T12:20:25: 
+2025-08-24T12:20:25: > medusa@0.0.1 start
+2025-08-24T12:20:25: > medusa start
+2025-08-24T12:20:25: 
+2025-08-24T12:20:27: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:20:27"}
+2025-08-24T12:20:27: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:28: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:28"}
+2025-08-24T12:20:28: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:28"}
+2025-08-24T12:20:31: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:31"}
+2025-08-24T12:20:31: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:31: designed for a production environment, as it will leak
+2025-08-24T12:20:31: memory, and will not scale past a single process.
+2025-08-24T12:20:31: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:31"}
+2025-08-24T12:20:31: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:31"}
+2025-08-24T12:20:32: 
+2025-08-24T12:20:32: > medusa@0.0.1 start
+2025-08-24T12:20:32: > medusa start
+2025-08-24T12:20:32: 
+2025-08-24T12:20:34: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:20:34"}
+2025-08-24T12:20:34: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:35: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:35"}
+2025-08-24T12:20:35: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:35"}
+2025-08-24T12:20:38: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:38"}
+2025-08-24T12:20:38: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:38: designed for a production environment, as it will leak
+2025-08-24T12:20:38: memory, and will not scale past a single process.
+2025-08-24T12:20:38: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:38"}
+2025-08-24T12:20:38: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:38"}
+2025-08-24T12:20:38: 
+2025-08-24T12:20:38: > medusa@0.0.1 start
+2025-08-24T12:20:38: > medusa start
+2025-08-24T12:20:38: 
+2025-08-24T12:20:40: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:20:40"}
+2025-08-24T12:20:40: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:41: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:41"}
+2025-08-24T12:20:41: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:41"}
+2025-08-24T12:20:44: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:44"}
+2025-08-24T12:20:44: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:44: designed for a production environment, as it will leak
+2025-08-24T12:20:44: memory, and will not scale past a single process.
+2025-08-24T12:20:44: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:44"}
+2025-08-24T12:20:44: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:44"}
+2025-08-24T12:20:45: 
+2025-08-24T12:20:45: > medusa@0.0.1 start
+2025-08-24T12:20:45: > medusa start
+2025-08-24T12:20:45: 
+2025-08-24T12:20:47: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:20:47"}
+2025-08-24T12:20:47: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:48: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:48"}
+2025-08-24T12:20:48: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:48"}
+2025-08-24T12:20:51: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:51"}
+2025-08-24T12:20:51: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:51: designed for a production environment, as it will leak
+2025-08-24T12:20:51: memory, and will not scale past a single process.
+2025-08-24T12:20:51: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:51"}
+2025-08-24T12:20:51: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:51"}
+2025-08-24T12:20:52: 
+2025-08-24T12:20:52: > medusa@0.0.1 start
+2025-08-24T12:20:52: > medusa start
+2025-08-24T12:20:52: 
+2025-08-24T12:20:54: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:20:54"}
+2025-08-24T12:20:54: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:20:55: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:20:55"}
+2025-08-24T12:20:55: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:20:55"}
+2025-08-24T12:20:58: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:20:58"}
+2025-08-24T12:20:58: Warning: connect.session() MemoryStore is not
+2025-08-24T12:20:58: designed for a production environment, as it will leak
+2025-08-24T12:20:58: memory, and will not scale past a single process.
+2025-08-24T12:20:58: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:20:58"}
+2025-08-24T12:20:58: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:20:58"}
+2025-08-24T12:20:58: 
+2025-08-24T12:20:58: > medusa@0.0.1 start
+2025-08-24T12:20:58: > medusa start
+2025-08-24T12:20:58: 
+2025-08-24T12:21:01: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:21:01"}
+2025-08-24T12:21:01: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:21:01: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:21:01"}
+2025-08-24T12:21:01: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:21:01"}
+2025-08-24T12:21:05: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:21:05"}
+2025-08-24T12:21:05: Warning: connect.session() MemoryStore is not
+2025-08-24T12:21:05: designed for a production environment, as it will leak
+2025-08-24T12:21:05: memory, and will not scale past a single process.
+2025-08-24T12:21:05: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:21:05"}
+2025-08-24T12:21:05: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:21:05"}
+2025-08-24T12:21:05: 
+2025-08-24T12:21:05: > medusa@0.0.1 start
+2025-08-24T12:21:05: > medusa start
+2025-08-24T12:21:05: 
+2025-08-24T12:21:08: {"level":"info","message":"Skipping instrumentation registration. No register function found.","timestamp":"2025-08-24 12:21:08"}
+2025-08-24T12:21:08: redisUrl not found. A fake redis instance will be used.
+2025-08-24T12:21:08: {"level":"warn","message":"Local Event Bus installed. This is not recommended for production.","timestamp":"2025-08-24 12:21:08"}
+2025-08-24T12:21:08: {"level":"info","message":"Locking module: Using \"in-memory\" as default.","timestamp":"2025-08-24 12:21:08"}
+2025-08-24T12:21:11: {"level":"info","message":"No job to load from /home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/dist/jobs. skipped.","timestamp":"2025-08-24 12:21:11"}
+2025-08-24T12:21:11: Warning: connect.session() MemoryStore is not
+2025-08-24T12:21:11: designed for a production environment, as it will leak
+2025-08-24T12:21:11: memory, and will not scale past a single process.
+2025-08-24T12:21:12: {"level":"error","message":"Error starting server","timestamp":"2025-08-24 12:21:12"}
+2025-08-24T12:21:12: {"level":"error","message":"Could not find index.html in the admin build directory. Make sure to run 'medusa build' before starting the server.","stack":[{"columnNumber":11,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/admin-bundler/dist/index.js","functionName":"serve","lineNumber":1573,"methodName":null,"native":false,"typeName":null},{"columnNumber":28,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/admin.ts","functionName":"serveProductionBuild","lineNumber":90,"methodName":null,"native":false,"typeName":null},{"columnNumber":3,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async loadEntrypoints","lineNumber":115,"methodName":null,"native":false,"typeName":null},{"columnNumber":31,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/loaders/index.ts","functionName":"async exports.default","lineNumber":179,"methodName":"default","native":false,"typeName":"async exports"},{"columnNumber":59,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async internalStart","lineNumber":169,"methodName":null,"native":false,"typeName":null},{"columnNumber":5,"fileName":"/home/davinlore-admin/htdocs/admin.davinlore.com/medusa/node_modules/@medusajs/medusa/src/commands/start.ts","functionName":"async start","lineNumber":290,"methodName":null,"native":false,"typeName":null}],"timestamp":"2025-08-24 12:21:12"}
+2025-08-24T12:21:12: 
+2025-08-24T12:21:12: > medusa@0.0.1 start
+2025-08-24T12:21:12: > medusa start
+2025-08-24T12:21:12: 
